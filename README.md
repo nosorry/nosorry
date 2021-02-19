@@ -21,4 +21,7 @@
 ⚡ Check out forks for tools 🔥
 </h4>
 
+![](https://komarev.com/ghpvc/?username=nosorry&color=green)
+
+
 <b> </> </b>
