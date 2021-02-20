@@ -8,7 +8,7 @@
 
 🛠 <b>Focusing on:</b>
 
-🌐 Network | 📙 Websites | 🧨 Cracking | 🔨 Physical Penetration | 👷 Social Engineering | ☁ Cloud Penetration | 📶 Wireless Networks
+🌐 Networking | 📙 Websites | 🧨 Cracking | 🔨 Physical Penetration | 👷 Social Engineering | ☁ Cloud Penetration | 📶 Wireless Networks
 
 --- 
 <h3>
